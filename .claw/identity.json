@@ -1,0 +1,9 @@
+{
+  "name": "ai-tools-evaluator",
+  "version": "1.0.0",
+  "type": "skill",
+  "description": "AI工具对比评测助手 - 帮助用户在多个AI工具之间做结构化比较并生成推荐报告",
+  "author": "Harry",
+  "created": "2026-03-29",
+  "tags": ["ai", "evaluator", "comparison", "tools"]
+}
